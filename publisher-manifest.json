@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "862cae631019aef7bfa14c88",
+  "owner": "uxmwvk",
+  "repo": "page-d3da5a8afeea7fe993c41ba7",
+  "title": "卧槽云(WOCcloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d3da5a8afeea7fe993c41ba7",
+      "a": "卧槽云(WOCcloud)",
+      "b": "2027最新官网",
+      "entity": "卧槽云(WOCcloud)",
+      "brand": "卧槽云(WOCcloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c3f5f94bc965343c5c77181e8e1d21d0c4b4be63efb26ba41e22c30c4cb293f0",
+      "content": {
+        "primary_entity": "卧槽云(WOCcloud)",
+        "keyword1": "卧槽云(WOCcloud)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择客户端，按订阅配置流程完成导入。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，配置订阅，按设备客户端完成连接。",
+          "AI_CLOSING_TITLE": "开始使用卧槽云",
+          "AI_DESCRIPTION": "，卧槽云(WOCcloud)提供基础版、旗舰版、团队版三档套餐，按年付更划算。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备，适合多设备协作。用户可根据设备数量和流量需求选择，在客户端中导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从套餐对比、设备需求与订阅周期出发，快速了解卧槽云。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版、旗舰版、团队版覆盖 3 台到 20 台设备，按使用人数与终端数量选择。",
+          "AI_FEATURE_TITLE_1": "套餐按设备选",
+          "AI_FEATURE_TEXT_2": "月付 100GB 到 1000GB 流量，按年付价格为月付的十倍，等于省下两个月费用。",
+          "AI_FEATURE_TITLE_2": "流量按周期配",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速优化，团队版支持企业定制路由与专属客户经理。",
+          "AI_FEATURE_TITLE_3": "线路按场景调",
+          "AI_GUIDE_INTRO": "先确定设备数量与流量需求，再按客户端文档完成订阅导入。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "卧槽云(WOCcloud)提供三档订阅套餐，覆盖个人到团队使用场景，按设备数和流量大小选择即可。旗舰版支持 5 台设备同时在线，含 IPLC 专线；团队版支持 20 台设备，适合多人协作。",
+          "AI_HERO_SUBTITLE": "三档套餐适配多种设备",
+          "AI_HIGHLIGHT_1": "月付 15 元起",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备",
+          "AI_HIGHLIGHT_3": "年付省两个月费用",
+          "AI_PLANS_INTRO": "基础版适合单人轻量使用，旗舰版适合多设备与游戏加速，团队版适合小型团队。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量和每月流量，在基础版、旗舰版、团队版之间选定套餐。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配要求，查看订阅导入方式。",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TEXT_3": "在对应客户端中按操作文档导入订阅，完成配置后即可连接。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "卧槽云订阅套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "卧槽云套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "单人日常使用可选基础版 100GB；经常看流媒体且需要 IPLC 加速可选旗舰版 300GB；多人团队共享或需要高带宽节点可选团队版 1000GB。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备在线？",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。超出在线设备数可能导致连接被限制，请按实际设备数量选择版本。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付比月付更经济。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，折合每月价格低于月付。",
+          "AI_FAQ_QUESTION_4": "订阅信息如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在卧槽云获取订阅地址后，在所选客户端中粘贴订阅链接并更新配置，具体步骤可参考对应客户端的使用文档。",
+          "AI_FAQ_QUESTION_5": "团队版支持定制路由吗？",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由，并可配置专属客户经理跟进。具体路由规则需结合实际网络环境与服务方沟通确认。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "y2mk9a.cn",
+    "host": "y2mk9a.cn"
+  },
+  "file_hashes": {
+    "index.html": "555ee5679b3ba1798df5b4c633989f96c5f3800ed824ba8339100aff12e6cd6b",
+    "sitemap.xml": "1991928d6e8cafb097820434262054f717e73fa534512453a3e43fb2e15fe3fd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6ec1e66c3922a7cff4ccbb082c492d09eceb3e7595d5fc4b40bb8c2336207b4f",
+    "robots.txt": "6e1601f48a95cb64cc7b038de4e1f7081af8e96535c283994247c99e62f47d55",
+    "867acb0ad6bf91aabf0cc1f7ba85d188.txt": "baba01e2966340af1d83164352fe419b3dffd4d7f87ebb67f28a96eaec6bcd96"
+  },
+  "revision": "ca87d6e9e529e798ea0d3ebea241fbef54c759dd962b5f0908ed3ab5f0ad4aed"
+}

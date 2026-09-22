@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://y2mk9a.cn/sitemap.xml
